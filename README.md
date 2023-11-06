@@ -1,2 +1,2 @@
 # Only-Github
-Author:- Suraj Singh
+Author:- Rishabh Singh
